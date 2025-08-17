@@ -1,4 +1,4 @@
-![   بات واتساپ هوش مصنوعی فارسی 🤖 | WhatsApp AI Bot](D:\Tarkhasi\Projects\WA-AI\docs\image.jpg)
+![   بات واتساپ هوش مصنوعی فارسی 🤖 | WhatsApp AI Bot](\docs\image.jpg)
 
 #   بات واتساپ هوش مصنوعی فارسی 🤖 | WhatsApp AI Bot
 
