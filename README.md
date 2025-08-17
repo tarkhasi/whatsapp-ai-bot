@@ -1,4 +1,4 @@
-![   بات واتساپ هوش مصنوعی فارسی 🤖 | WhatsApp AI Bot](\docs\image.jpg)
+![image.jpg](docs%2Fimage.jpg)
 
 #   بات واتساپ هوش مصنوعی فارسی 🤖 | WhatsApp AI Bot
 
